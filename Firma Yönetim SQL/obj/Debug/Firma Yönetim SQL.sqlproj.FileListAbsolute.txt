@@ -1,0 +1,6 @@
+C:\Users\gorke\source\repos\Hackathon\Firma Yönetim SQL\bin\Debug\Firma Yönetim SQL.dacpac
+C:\Users\gorke\source\repos\Hackathon\Firma Yönetim SQL\bin\Debug\Firma_Yönetim_SQL.dll
+C:\Users\gorke\source\repos\Hackathon\Firma Yönetim SQL\bin\Debug\Firma_Yönetim_SQL.pdb
+C:\Users\gorke\source\repos\Hackathon\Firma Yönetim SQL\obj\Debug\Firma Yönetim SQL.sqlproj.AssemblyReference.cache
+C:\Users\gorke\source\repos\Hackathon\Firma Yönetim SQL\obj\Debug\Firma_Yönetim_SQL.dll
+C:\Users\gorke\source\repos\Hackathon\Firma Yönetim SQL\obj\Debug\Firma_Yönetim_SQL.pdb

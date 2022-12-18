@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Urunler]
+(
+	OzelUrunKodu INT NOT NULL PRIMARY KEY,
+	UrunAdi VARCHAR(50) NOT NULL
+)
